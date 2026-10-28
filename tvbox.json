@@ -1,0 +1,95 @@
+{
+  "spider": "http://192.168.1.194:8088/custom_spider.jar",
+  "sites": [
+    {
+      "key": "kankanya",
+      "name": "看看鸭",
+      "type": 3,
+      "api": "csp_Kankanya",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.kankanya.me"
+    },
+    {
+      "key": "lxyy",
+      "name": "洛雪TV",
+      "type": 3,
+      "api": "csp_Lxyy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://tv.lxyy.club"
+    },
+    {
+      "key": "hongguo",
+      "name": "红果短剧",
+      "type": 3,
+      "api": "csp_Hongguo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.hongguostudio.com"
+    },
+    {
+      "key": "kanmovie",
+      "name": "西瓜影视",
+      "type": 3,
+      "api": "csp_Kanmovie",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.kanmovie.com"
+    },
+    {
+      "key": "zhuiying",
+      "name": "追影",
+      "type": 3,
+      "api": "csp_Zhuiying",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://zhuiying3.cc"
+    },
+    {
+      "key": "kkys",
+      "name": "可可影视",
+      "type": 3,
+      "api": "csp_Kkys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.kkys14.com"
+    },
+    {
+      "key": "fdzys",
+      "name": "分享影视",
+      "type": 3,
+      "api": "csp_Fdzys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://fdzys.com"
+    },
+    {
+      "key": "ddmf",
+      "name": "蛋蛋影视",
+      "type": 3,
+      "api": "csp_Ddmf",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ddmf.net"
+    },
+    {
+      "key": "hxgnhb",
+      "name": "金牌影院",
+      "type": 3,
+      "api": "csp_Hxgnhb",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.hxgnhb.cn"
+    }
+  ]
+}
