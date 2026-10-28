@@ -17,4 +17,4 @@ TVBox 影视接口配置仓库。
 https://raw.githubusercontent.com/Diaojiangjun/hy-tvbox/main/tvbox.json
 ```
 
-注意：`tvbox.json` 中的 `spider` 目前指向本地地址，部署到公网前需改为可访问的 jar 地址。
+注意：`tvbox.json` 中的 `spider` 指向本仓库的 jsDelivr 公网地址，更新 jar 后如 CDN 未刷新，可访问 `https://purge.jsdelivr.net/gh/Diaojiangjun/hy-tvbox@main/jar/custom_spider.jar` 手动刷新缓存。
