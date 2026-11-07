@@ -124,42 +124,38 @@
     {
       "key": "ruyi",
       "name": "如意",
-      "type": 3,
-      "api": "csp_AppleCms",
+      "type": 1,
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://cj.rycjapi.com/api.php/provide/vod"
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "maotai",
       "name": "茅台",
-      "type": 3,
-      "api": "csp_AppleCms",
+      "type": 1,
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://caiji.maotaizy.cc/api.php/provide/vod"
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "hongniu",
       "name": "红牛",
-      "type": 3,
-      "api": "csp_AppleCms",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://www.hongniuzy2.com/api.php/provide/vod"
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "mgzy",
       "name": "新芒果",
-      "type": 3,
-      "api": "csp_AppleCms",
+      "type": 1,
+      "api": "https://caiji.mgzyapi.com/api.php/provide/vod",
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://caiji.mgzyapi.com/api.php/provide/vod"
+      "quickSearch": 1,
+      "changeable": 1
     }
   ]
 }
