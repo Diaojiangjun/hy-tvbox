@@ -1,5 +1,104 @@
 {
   "spider": "https://raw.githubusercontent.com/Diaojiangjun/hy-tvbox/main/jar/custom_spider.jar",
+  "lives": [
+    {
+      "name": "cluntop",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/Diaojiangjun/TVBox-Source@main/lib/iptv.m3u"
+    },
+    {
+      "name": "虎牙一起看",
+      "type": 0,
+      "url": "https://iptv.clun.top/huyayqk.m3u",
+      "playerType": 2,
+      "timeout": 15
+    },
+    {
+      "name": "斗鱼一起看",
+      "type": 0,
+      "url": "https://iptv.clun.top/douyuyqk.m3u",
+      "playerType": 2,
+      "timeout": 15
+    },
+    {
+      "name": "YY 轮播",
+      "type": 0,
+      "url": "https://iptv.clun.top/yylunbo.m3u",
+      "playerType": 2,
+      "timeout": 15
+    },
+    {
+      "name": "4GTV",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/Diaojiangjun/TVBox-Source@main/lib/4gtv.txt"
+    },
+    {
+      "name": "Mursor",
+      "type": 0,
+      "url": "https://gh.clun.top/raw.githubusercontent.com/Mursor/LIVE/main/iptv.m3u",
+      "playerType": 2
+    },
+    {
+      "name": "tv_jp",
+      "type": 0,
+      "url": "https://gh.clun.top/raw.githubusercontent.com/luongz/iptv-jp/main/jp.m3u"
+    },
+    {
+      "name": "平台直播",
+      "type": 0,
+      "url": "https://tv.iill.top/m3u/Live",
+      "playerType": 2
+    },
+    {
+      "name": "肥羊虎牙一起看",
+      "type": 0,
+      "url": "https://gh.clun.top/raw.githubusercontent.com/mursor1985/LIVE/main/huyayqk.m3u",
+      "playerType": 2
+    },
+    {
+      "name": "肥羊B站直播",
+      "type": 0,
+      "url": "https://gh.clun.top/raw.githubusercontent.com/mursor1985/LIVE/main/bililive.m3u",
+      "playerType": 2
+    },
+    {
+      "name": "肥羊斗鱼一起看",
+      "type": 0,
+      "url": "https://gh.clun.top/raw.githubusercontent.com/mursor1985/LIVE/main/douyuyqk.m3u",
+      "playerType": 2
+    },
+    {
+      "name": "肥羊YY轮播",
+      "type": 0,
+      "url": "https://gh.clun.top/raw.githubusercontent.com/mursor1985/LIVE/main/yylunbo.m3u",
+      "playerType": 2
+    },
+    {
+      "name": "wqwqwq",
+      "type": 0,
+      "url": "https://la1.wqwqwq.sbs/tv.m3u"
+    },
+    {
+      "name": "YanG",
+      "type": 0,
+      "url": "https://tv.iill.top/m3u/Gather"
+    },
+    {
+      "name": "Guovin",
+      "type": 0,
+      "url": "https://gh.clun.top/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u"
+    },
+    {
+      "name": "mlzlzj",
+      "type": 0,
+      "url": "https://gh.clun.top/raw.githubusercontent.com/mlzlzj/TV/main/output/result.m3u"
+    },
+    {
+      "name": "gambiarras",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/gambiarras/legal-iptv/main/playlist.m3u"
+    }
+  ],
   "sites": [
     {
       "key": "kankanya",
